@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="availability" table="sn_car_rental_ma_0_car" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>availability</element>
+            <name>sn_car_rental_ma_0_car</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-22 17:22:22</sys_created_on>
+            <sys_id>5071cad13b021210cf98dda9d41eeb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>availability</sys_name>
+            <sys_package display_value="Car Rental Management" source="sn_car_rental_ma_0">f7618ad13b021210cf98dda9d41eeb89</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Rental Management">f7618ad13b021210cf98dda9d41eeb89</sys_scope>
+            <sys_update_name>sys_choice_sn_car_rental_ma_0_car_availability</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-22 17:22:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>sn_car_rental_ma_0_car</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-22 17:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5471cad13b021210cf98dda9d41eeb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-22 17:22:22</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unavailable</label>
+            <language>en</language>
+            <name>sn_car_rental_ma_0_car</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-22 17:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d871cad13b021210cf98dda9d41eeb88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-22 17:22:22</sys_updated_on>
+            <value>unavailable</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_info">
+    <sys_app_info action="INSERT_OR_UPDATE">
+        <properties>{"generated_using_ai":"true","ai_sysids":"[{},{},{},\"74710ed13b021210cf98dda9d41eebe0\",\"91714ed13b021210cf98dda9d41eebac\"]","ai_sysids_unreviewed":"[{},{},{},\"74710ed13b021210cf98dda9d41eebe0\",\"91714ed13b021210cf98dda9d41eebac\"]"}</properties>
+        <sys_class_name>sys_app_info</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 17:22:20</sys_created_on>
+        <sys_id>f3618ad13b021210cf98dda9d41eeba0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Car Rental Management" source="sn_car_rental_ma_0">f7618ad13b021210cf98dda9d41eeb89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Rental Management">f7618ad13b021210cf98dda9d41eeb89</sys_scope>
+        <sys_update_name>sys_app_info_f3618ad13b021210cf98dda9d41eeba0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 17:22:26</sys_updated_on>
+    </sys_app_info>
+</record_update>
