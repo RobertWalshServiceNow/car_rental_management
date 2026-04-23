@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_car_rental_ma_0_customer">
         <active>true</active>
         <array>false</array>
-        <attributes>enforce_dot_walk_cross_scope_access=true</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -34,7 +34,6 @@
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
-        <read_only_option/>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="car" table="sn_car_rental_ma_0_rental_agreement">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
+        <attributes>encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -34,7 +34,6 @@
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
-        <read_only_option/>
         <read_roles/>
         <reference display_value="" name="sn_car_rental_ma_0_car">sn_car_rental_ma_0_car</reference>
         <reference_cascade_rule/>
