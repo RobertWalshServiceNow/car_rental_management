@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Read-only access to available cars.</description>
         <elevated_privilege>false</elevated_privilege>
+        <federated_id>Sklu59nc/CCKJ2qpKizkIR50o/HNjDrM18zsFj8kHL8=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>sn_car_rental_ma_0.customer</name>

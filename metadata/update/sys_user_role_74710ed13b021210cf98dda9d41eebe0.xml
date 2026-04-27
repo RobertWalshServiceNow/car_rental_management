@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Full control over Car records.</description>
         <elevated_privilege>false</elevated_privilege>
+        <federated_id>zuaf/pMB7D/OTtW72sOU+tY4p44Y2e0L/4xbnMRhjIs=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>sn_car_rental_ma_0.rental_agent</name>

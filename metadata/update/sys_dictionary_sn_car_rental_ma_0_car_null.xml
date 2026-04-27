@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_car_rental_ma_0_car">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>enforce_dot_walk_cross_scope_access=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -34,6 +34,7 @@
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
+        <read_only_option/>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -47,12 +48,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-22 17:22:20</sys_created_on>
-        <sys_id>00718ad13b021210cf98dda9d41eebb6</sys_id>
         <sys_name>sn_car_rental_ma_0_car</sys_name>
         <sys_package display_value="Car Rental Management" source="sn_car_rental_ma_0">f7618ad13b021210cf98dda9d41eeb89</sys_package>
         <sys_policy/>
         <sys_scope display_value="Car Rental Management">f7618ad13b021210cf98dda9d41eeb89</sys_scope>
-        <sys_update_name>sys_dictionary_sn_car_rental_ma_0_car_null</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_car_rental_ma_0_car_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-11-22 17:22:20</sys_updated_on>
         <table_reference>false</table_reference>

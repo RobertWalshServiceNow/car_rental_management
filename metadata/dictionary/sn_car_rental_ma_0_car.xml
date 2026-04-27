@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="80718ad13b021210cf98dda9d41eebb2" label="Car" max_length="40" name="sn_car_rental_ma_0_car" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Availability" mandatory="true" max_length="40" name="availability" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" value="available"/>
+                <element inactive_on_update="false" label="Unavailable" value="unavailable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Year" mandatory="true" max_length="40" name="year" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" mandatory="true" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" mandatory="true" max_length="40" name="make" type="string"/>
+    </element>
+</database>
